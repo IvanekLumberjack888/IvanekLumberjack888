@@ -58,9 +58,6 @@ Junior Project Manager s rostoucími dovednostmi v oblasti datové analýzy. Ved
 ## 📫 Kontakt
 
 <div align="center">
-  <a href="your-linkedin-url"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ivodolezal888?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+  <a href="mailto:ivousd@gmail.com."><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
-
-Citace:
-[1] Junior-Project-Manager.docx https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/47041337/655ef89b-1fdc-4f94-8f4f-5807fcafcc25/Junior-Project-Manager.docx
