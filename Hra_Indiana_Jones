@@ -1,0 +1,15 @@
+Programování
+To se tak jednou připojím na ITNETWORK webinář a píšu kód v pythonu.
+# HRA
+print("Vešel jsi do chrámu a vytoužená koruna leží na podstavci. Rozběhneš se za ní? [A/N]!")
+volba = input()
+if volba == "A":
+    print("Poivný zvuk pod tvými podrážkami zasignalizoval, že něco není v pořádku.")
+    print("Stiskl jsi past a stěny se začaly posouvat k tobě, východ se zavírá. KONEC HRY!")
+else:
+    print("Rozhodl ses, že se nerozběhneš za korunou. Co uděláš dál? [A/N]")
+    volba2 = input()
+    if volba2 == "A":
+        print("Opatrně jsi přistoupil ke koruně a vzal ji do rukou. Vyhrál jsi! KONEC HRY!")
+    else:
+        print("Všiml sis, že po rukávu ti putuje obří tarantule, něco tě zabolelo a padl jsi. KONEC HRY!")
