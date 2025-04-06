@@ -1,4 +1,4 @@
-# Ivo Doležal
+# Ivo Doležal 👉 [Osobní webová stránka](https://ivaneklumberjack888.github.io/)
 
 [English version](#english) | [Česká verze](#czech)
 
