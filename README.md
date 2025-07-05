@@ -1,4 +1,4 @@
-# Ivo Doležal 👉 [Osobní webová stránka](https://ivaneklumberjack888.github.io/)
+# Ivo Doležal 👉 ["Osobní webová stránka"](https://ivaneklumberjack888.github.io/), 🧻➡️ ["CV"](https://www.canva.com/design/DAGsTa_T23w/VOaBXn81hBp7-UW6s6zR8A/edit?utm_content=DAGsTa_T23w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 [English version](#english) | [Česká verze](#czech)
 
