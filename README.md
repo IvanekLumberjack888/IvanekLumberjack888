@@ -26,7 +26,8 @@ Junior Project Manager with growing skills in data analysis. Currently leading a
 - Creating and managing feedback systems for continuous improvement
 
 ## 📫 Contact
-
+ **📲 703 383 930**
+ 
 <div align="center">
   <a href="https://www.linkedin.com/in/ivodolezal888"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
   <a href="mailto:ivousd@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -57,7 +58,7 @@ Junior Project Manager s rostoucími dovednostmi v oblasti datové analýzy. Ved
 - Tvorba a správa systémů zpětné vazby pro kontinuální zlepšování
 
 ## 📫 Kontakt
-
+ **📲 703 383 930**
 <div align="center">
   <a href="https://www.linkedin.com/in/ivodolezal888"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
   <a href="mailto:ivousd@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
