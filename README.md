@@ -1,6 +1,120 @@
 # Ivo Doležal
 👉 ["Osobní webová stránka"](https://ivaneklumberjack888.github.io/)
 
+English version | Česká verze
+
+<a name="english"></a>
+
+🚀 About Me
+Aspiring Data Analyst transitioning from non-IT sector to IT with passion for AI and data-driven insights. Currently leading a comprehensive digitalization initiative in the Microsoft 365 ecosystem (launch planned January 2026) while developing advanced analytical skills through continuous learning.
+
+🛠 Technical Skills
+Data Analysis & BI:
+
+Python, SQL, DAX, M (Power Query)
+
+Power BI, Microsoft Fabric
+
+Excel (Power Query, Power Pivot)
+
+Project Management & M365:
+
+Teams, Forms, Planner, SharePoint
+
+Power Automate
+
+Process digitalization and optimization
+
+📊 ENGETO Academy Projects
+Python Projects
+Text Analyzer - Text processing and analysis tool
+
+Bulls & Cows Game - Interactive number guessing game
+
+Election Scraper - Web scraping tool for election data
+
+SQL Projects
+GDP Impact Analysis on Wages and Food Prices in Czech Republic (2006-2018) - Comprehensive economic data analysis
+
+🔥 Key Projects
+[Digitalization 2026] Comprehensive M365 ecosystem implementation with integrated data analytics
+
+[Fleet Analytics] Advanced data analysis and reporting for fleet management optimization
+
+[Data Analysis Portfolio] Python and SQL projects demonstrating analytical capabilities
+
+💼 Professional Experience
+Developing efficient M365 ecosystems with comprehensive documentation
+
+Strategic communication with C-level executives (CFO, COO Sales & Care, COO Service)
+
+Implementing phased project methodology: Preparation → Testing → Live Operation → Go Live
+
+Creating feedback systems and KPI dashboards for continuous improvement
+
+📫 Contact
+📲 703 383 930
+
+❔Why LUMBERJACK❔
+Click here → because..
+
+<div align="center"> <a href="https://www.linkedin.com/in/ivodolezal888"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a> <a href="mailto:ivousd@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a> </div>
+<a name="czech"></a>
+
+🚀 O mně
+Učící se datový analytik s přechodem z ne-IT sektoru do IT, se zájmem o AI a data-driven rozhodování. Vedu komplexní digitalizační iniciativu v Microsoft 365 ekosystému (spuštění leden 2026) a zároveň kontinuálně rozvíjím pokročilé analytické dovednosti.
+
+🛠 Technické dovednosti
+Datová analýza a BI:
+
+Python, SQL, DAX, M (Power Query)
+
+Power BI, Microsoft Fabric
+
+Excel (Power Query, Power Pivot)
+
+Projektové řízení a M365:
+
+Teams, Forms, Planner, SharePoint
+
+Power Automate
+
+Digitalizace a optimalizace procesů
+
+📊 ENGETO Academy projekty
+Python projekty
+Text Analyzer - Nástroj pro zpracování a analýzu textu
+
+Hra Bulls & Cows - Interaktivní hra na hádání čísel
+
+Election Scraper - Web scraping nástroj pro volební data
+
+SQL projekty
+Analýza vlivu HDP na mzdy a ceny potravin v ČR (2006-2018) - Komplexní analýza ekonomických dat
+
+🔥 Klíčové projekty
+[Digitalizace 2026] Komplexní implementace M365 ekosystému s integrovanou datovou analytikou
+
+[Fleet Analytics] Pokročilá analýza dat a reporting pro optimalizaci správy vozového parku
+
+[Datově-analytické portfolio] Projekty v Pythonu a SQL demonstrující analytické schopnosti
+
+💼 Profesní zkušenosti
+Vývoj efektivních M365 ekosystémů s komplexní dokumentací
+
+Strategická komunikace s C-level managementem (CFO, COO Sales & Care, COO Servis)
+
+Implementace fázové projektové metodiky: Příprava → Testování → Ostrý provoz → Go Live
+
+Tvorba systémů zpětné vazby a KPI dashboardů pro kontinuální zlepšování
+
+📫 Kontakt
+📲 703 383 930
+
+❔Why LUMBERJACK❔
+Click here → because..
+
+<div align="center"> <a href="https://www.linkedin.com/in/ivodolezal888"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a> <a href="mailto:ivousd@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a> </div>
 [English version](#english) | [Česká verze](#czech)
 
 <a name="english"></a>
