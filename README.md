@@ -76,7 +76,7 @@ Because I’ve split logs in real life, I bring the same grit to SQL joins—fle
 ---
 english_version
 ## 🚀 O mně
-Jako začínající **Data Engineer** mě baví proměňovat surová data v čisté a smysluplné informace. Specializuji se na čištění dat s pomocí **Power Query** a tvorbu přehledných **Power BI** reportů, které pomáhají firmám dělat lepší rozhodnutí. Každý den se učím něco nového v **Pythonu** a **SQL**, abych mohl v budoucnu tvořit robustnější řešení.
+Jako začínající **Data Engineer** mě baví proměňovat surová data v čisté a smysluplné informace. Specializuji se na čištění dat s pomocí **Power Query** a tvorbu přehledných **Power BI** reportů, které pomáhají dělat lepší rozhodnutí. Každý den se učím něco nového v **Pythonu** a **SQL**, abych mohl v budoucnu tvořit robustnější řešení.
 
 ---
 ## 🛠 Technologický stack
