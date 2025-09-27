@@ -104,7 +104,9 @@ Jako začínající **Data Engineer** mě baví proměňovat surová data v čis
 ### SQL
 - **[Analýza HDP vs mzdy (2006–2018)](https://github.com/IvanekLumberjack888/sql-projekt-engeto)**
   Praktická ekonomická analýza
-
+### PowerBI
+- 
+  
 ---
 ## 🔥 Klíčové úspěchy
 - Dashboardy pro Hedin Automotive
