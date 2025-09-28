@@ -35,6 +35,8 @@ Aspiring Data Engineer fueled by curiosity and adaptability. I transform messy C
 ### SQL
 - **[GDP vs Wages (2006–2018)](https://github.com/IvanekLumberjack888/sql-projekt-engeto)**
   Hands-on economic data analysis
+### PowerBI
+- **[Car Rental - 'TimberRide'](https://github.com/IvanekLumberjack888/PowerBI-for-Engeto)**
 
 ---
 ## 🔥 Highlights
