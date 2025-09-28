@@ -36,8 +36,8 @@ Aspiring Data Engineer fueled by curiosity and adaptability. I transform messy C
 - **[GDP vs Wages (2006–2018)](https://github.com/IvanekLumberjack888/sql-projekt-engeto)**
   Hands-on economic data analysis
 ### PowerBI
-- **[Car Rental - 'TimberRide'](https://github.com/IvanekLumberjack888/PowerBI-for-Engeto)**
-
+- **[Car Rental — 'TimberRide'](https://github.com/IvanekLumberjack888/PowerBI-for-Engeto)**
+  Report for Imaginary Car Rental Company
 ---
 ## 🔥 Highlights
 - Developed fleet-management dashboards at Hedin Automotive
@@ -107,8 +107,8 @@ Jako začínající **Data Engineer** mě baví proměňovat surová data v čis
 - **[Analýza HDP vs mzdy (2006–2018)](https://github.com/IvanekLumberjack888/sql-projekt-engeto)**
   Praktická ekonomická analýza
 ### PowerBI
-- 
-  
+- **[Autopůjčovna — 'TimberRide'](https://github.com/IvanekLumberjack888/PowerBI-for-Engeto)**
+  Report pro imaginární autopůjčovnu
 ---
 ## 🔥 Klíčové úspěchy
 - Dashboardy pro Hedin Automotive
