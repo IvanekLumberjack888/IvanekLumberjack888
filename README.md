@@ -12,7 +12,8 @@ Currently learning **Microsoft Fabric** – the modern, unified data platform.
 **Why I'm here:**
 - Transitioning from analytical thinking to engineering mindset
 - Building real-world data projects (ETL, extraction, transformation)
-- Preparing for **DP-700: Fabric Data Engineer** certification
+- Preparing for **DP-700: Fabric Data Engineer** certification -> [Here is public repo](https://github.com/IvanekLumberjack888/data-engineer-journey-2026-2.0.git) 👀
+
 Data Engineering
 Microsoft Fabric
 PySpark
