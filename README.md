@@ -67,8 +67,8 @@ that move, transform, and deliver data. Precision matters. 🪓
   
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvanekLumberjack888&show_icons=true&theme=dracula&hide_border=true&token=ghp_jYENbu0jTz9HwKNK45t2a6LSGsVYC1UKU19)
-
+# SPRÁVNĚ (bez tokenu):
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvanekLumberjack888&show_icons=true&theme=dracula&hide_border=true)
 ---
 ## 🎓 Learning Path 2026
 - **Q4 2025**: Fabric Data Days + DP-700 prep
