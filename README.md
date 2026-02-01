@@ -1,88 +1,113 @@
 👁️ [Personal_website_-_ivaneklumberjack888.github.io](https://ivaneklumberjack888.github.io/) 👀
 
 # **Ivo Dolezal 🪓**
+
 # IvanekLumberjack888 | Junior Data Engineer
-**Data Engineer** Building data pipelines &amp; learning Microsoft Fabric
-Focused on Python | SQL | PySpark | Data Engineering
+
+**Data Engineer** | Azure Data Platforms | Microsoft Fabric  
+Building production-grade data pipelines with Azure Data Factory, Databricks & Fabric  
+Focused on Python | SQL | PySpark | Cloud Data Engineering  
 📍 Brno, CZ | 🌍 Remote-friendly | 🎓 DP-700 Preparation
+
 ---
+
 ## 👤 About Me
-I'm a **Junior Data Engineer** on a journey from analytics to engineering.
-Currently learning **Microsoft Fabric** – the modern, unified data platform.
-**Why I'm here:**
-- Transitioning from analytical thinking to engineering mindset
-- Building data projects (ETL, extraction, transformation)
-- Preparing for **DP-700: Fabric Data Engineer** certification -> [Here is public repo](https://github.com/IvanekLumberjack888/data-engineer-journey-2026-2.0.git) 👀
 
-Data Engineering
-Microsoft Fabric
-PySpark
-Notebooks
-ETL
-Power BI
-Git
+I'm a **Junior Data Engineer** specializing in **Azure data platforms** and **Microsoft Fabric** – modern cloud data engineering.
 
+**What I do:**
+- Building production-grade data pipelines with Azure Data Factory & Databricks
+- Working with event-driven architectures (Event Hub, Service Bus)
+- Preparing for **DP-700: Fabric Data Engineer** certification → [Public learning repo](https://github.com/IvanekLumberjack888/data-engineer-journey-2026-2.0.git) 👀
+- Real-world experience with cloud data integration
 
-- Growing through hands-on projects
-**Philosophy:** Data engineering is about building reliable, scalable pipelines
+**Tech Focus:**
+```
+Azure Data Factory | Databricks | Microsoft Fabric
+Event Hub | PySpark | Data Engineering
+Real-time Pipelines | ETL/ELT | Cloud Integration
+```
+
+**Philosophy:** Data engineering is about building reliable, scalable pipelines  
 that move, transform, and deliver data. Precision matters. 🪓
+
 ---
-## 🛠️Tech Stack
-### Languages &amp; Frameworks
-- **Python**: Pandas, PySpark, Jupyter, BeautifulSoup
-- **SQL**: T-SQL, query optimization
-- **PySpark**: Learning (Fabric focus)
-### Cloud &amp; Platform
-- **Microsoft Fabric**
-- Notebooks (Python/PySpark)
-- OneLake (data lake)
-- Dataflows (transformation)
-- Data Warehouse
-- Microsoft 365
-### Tools
-- **IDE**: VS Code, Jupyter
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+- **Python**: Pandas, PySpark, Jupyter
+- **SQL**: T-SQL, query optimization, data modeling
+- **PySpark**: Data transformations, Databricks
+
+### Cloud & Platforms
+- **Azure Data Factory**: ETL orchestration, pipeline design
+- **Databricks**: Spark workloads, data processing
+- **Microsoft Fabric**: OneLake, Notebooks, Data Warehouse
+- **Event Hub & Service Bus**: Real-time data streaming
+- **Azure DevOps**: CI/CD, repos, pipelines
+
+### Tools & Integration
+- **IDE**: VS Code, Jupyter, Databricks Notebooks
 - **Version Control**: Git, GitHub
-- **Web Scraping**: BeautifulSoup, REST API
-- **Microsoft Fabric as SaaS**: Some projects.
+- **Data Integration**: REST APIs, event-driven architectures
+- **Monitoring**: Azure Monitor, logging strategies
+
 ---
+
 ## 📊 Featured Projects
-### 1. 🌐 Python Web Scraping (BeautifulSoup)
-- **Tech**: Python, BeautifulSoup, Requests
-- **Desc**: Learning data extraction from websites
-- **GitHub**: [Link](https://github.com/IvanekLumberjack888/Elections-Scraper)
+
+### 1. 🏗️ Azure Data Integration Pipeline
+- **Tech**: Azure Data Factory, Databricks, Event Hub
+- **Desc**: Production ETL workflows with event-driven architecture
+- **Focus**: Real-time data processing, pipeline orchestration
+
 ### 2. 📊 ETL Pipeline Project
-- **Tech**: Python, SQL, Data transformation
-- **Desc**: Building complete ETL workflow
+- **Tech**: Python, SQL, PySpark, Data transformation
+- **Desc**: Complete ETL workflow with data quality checks
 - **GitHub**: [Link](https://github.com/IvanekLumberjack888/fabric-hobbytools-rental-platform)
+
 ### 3. ✨ Fabric Notebook Experiments
 - **Tech**: Microsoft Fabric, PySpark, Notebooks
-- **Desc**: Exploring Fabric platform &amp; OneLake
+- **Desc**: Exploring Fabric platform, OneLake & data lakehouse patterns
 - **GitHub**: [Link](https://github.com/IvanekLumberjack888/fabric-hobbytools-rental-platform)
-### 4. 💼 Portfolio Website
+
+### 4. 🌐 Data Extraction & Processing
+- **Tech**: Python, BeautifulSoup, REST APIs
+- **Desc**: Automated data extraction pipelines
+- **GitHub**: [Elections Scraper](https://github.com/IvanekLumberjack888/Elections-Scraper)
+
+### 5. 💼 Portfolio Website
 - **Tech**: HTML, CSS, JavaScript, GitHub Pages
 - **Web**: [ivaneklumberjack888.github.io](https://ivaneklumberjack888.github.io)
 
 ### AND MANY [MORE]
-- [REPOSITORIES](https://github.com/IvanekLumberjack888?tab=repositories)
-  
+- [ALL REPOSITORIES](https://github.com/IvanekLumberjack888?tab=repositories)
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvanekLumberjack888&show_icons=true&theme=dracula&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanekLumberjack888&layout=compact&theme=dracula&hide_border=true&hide=jupyter%20notebook&langs_count=6)
 
+---
 
+## 🎓 Learning & Certifications
+
+- **Q1 2026**: DP-700 Certification (Microsoft Fabric Data Engineer Associate) - In Progress
+- **2026**: Azure data engineering & event-driven architectures
+- **Ongoing**: Real-world projects, cloud patterns, best practices
+- **Focus Areas**: Data lakehouse, medallion architecture, real-time pipelines
 
 ---
-## 🎓 Learning Path 2026
-- **Q4 2025**: Fabric Data Days + DP-700 prep
-- **Q1 2026**: DP-700 Certification (target: Feb/Mar)
-- **Q2 2026**: Real-world projects + job search
-- **Q2-Q4 2026**: Working as Junior Data Engineer
----
+
 ## 📫 Connect
-- **LinkedIn**: [linkedin.com/in/ivodolezal888](https://linkedin.com/in/ivodolezal888)
+
 - **GitHub**: [github.com/IvanekLumberjack888](https://github.com/IvanekLumberjack888)
 - **Portfolio**: [ivaneklumberjack888.github.io](https://ivaneklumberjack888.github.io)
 - **Email**: ivousd@gmail.com
+
 ---
-**Status**: Learning, building, growing 🚀
+
+**Status**: Building, shipping, growing 🚀
