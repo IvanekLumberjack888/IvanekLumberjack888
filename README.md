@@ -95,7 +95,7 @@ that move, transform, and deliver data. Precision matters. 🪓
 
 ## 🎓 Learning & Certifications
 
-- **Q1 2026**: DP-700 Certification (Microsoft Fabric Data Engineer Associate) - In Progress
+- **2026**: DP-700 Certification (Microsoft Fabric Data Engineer Associate) - In Progress
 - **2026**: Azure data engineering & event-driven architectures
 - **Ongoing**: Real-world projects, cloud patterns, best practices
 - **Focus Areas**: Data lakehouse, medallion architecture, real-time pipelines
