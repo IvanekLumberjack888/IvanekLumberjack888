@@ -1,7 +1,7 @@
 # Ivo Doležal
 
 **Data Engineer & AI Systems Specialist**  
-Brno, Czech Republic · [Portfolio](https://ivaneklumberjack888.github.io/) · [AIVOS Platform](https://aivos-two.vercel.app/) · [Ko-fi](https://ko-fi.com/aivos_os) · [LinkedIn](https://linkedin.com) · [Email](mailto:ivousd@gmail.com)
+Brno, Czech Republic · [Portfolio](https://ivaneklumberjack888.github.io/) · [AIVOS Platform](https://aivos-two.vercel.app/) · [Buy Me a Coffee](https://buymeacoffee.com/aivos_os) · [Ko-fi](https://ko-fi.com/aivos_os) · [LinkedIn](https://linkedin.com) · [Email](mailto:ivousd@gmail.com)
 
 ---
 
