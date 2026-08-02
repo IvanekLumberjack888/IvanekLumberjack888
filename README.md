@@ -47,11 +47,6 @@ Specializing in cloud data engineering, event-driven integration, and private AI
 ## Professional Development & Certifications
 
 - **Cloud Data Platform Engineering**: Advanced Azure Integration & Architecture Patterns
-- **Continuous Learning**: Cloud Certifications & Self-development (`AZ-900`, `LLM RAG Systems`)
 
 ---
 
-<div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=IvanekLumberjack888&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanekLumberjack888&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&langs_count=6" alt="Top Languages" />
-</div>
