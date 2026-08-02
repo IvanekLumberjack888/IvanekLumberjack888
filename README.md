@@ -1,76 +1,57 @@
-<div align="center">
-  <h1>Hi there, I'm Ivo Doležal 👋</h1>
-  <p><strong>Data Engineer | AI Integration & Automation Specialist</strong></p>
-  <p>Building production-grade data pipelines, AI workflows & cloud architectures.</p>
+# Ivo Doležal
 
-  <p>
-    <a href="https://ivaneklumberjack888.github.io/"><img src="https://img.shields.io/badge/Portfolio-ivaneklumberjack888.github.io-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-    <a href="https://aivos-two.vercel.app/"><img src="https://img.shields.io/badge/AIVOS_App-aivos--two.vercel.app-0052CC?style=for-the-badge&logo=vercel&logoColor=white" alt="AIVOS App"></a>
-    <a href="mailto:ivousd@gmail.com"><img src="https://img.shields.io/badge/Email-ivousd%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  </p>
-</div>
+**Data Engineer & AI Systems Specialist**  
+Brno, Czech Republic · [Portfolio](https://ivaneklumberjack888.github.io/) · [AIVOS Platform](https://aivos-two.vercel.app/) · [LinkedIn](https://linkedin.com) · [Email](mailto:ivousd@gmail.com)
 
 ---
 
-### ⚡ About Me
+## Executive Overview
 
-I am a **Data Engineer & AI Specialist** focused on **Azure Data Platform**, **PySpark**, **Event-Driven Architectures**, and **Autonomous AI Workflows**.
-
-- 🔭 **Currently Building**: **AIVOS** (Personal AI Operating System) powered by **Next.js 16**, **Google Gemini 2.0 Flash**, and **Ollama**.
-- 🛠️ **Core Expertise**: Azure Data Factory, Databricks, PySpark, Event Hub, Service Bus, SQL & Data Pipelines.
-- 🎯 **Continuous Learning**: Cloud Certifications & Self-development (`AZ-900`, `Data Platform Engineering`, `LLM RAG`).
-- 📍 **Location**: Brno, Czech Republic (Remote-friendly).
+Specializing in cloud data engineering, event-driven integration, and private AI system architectures. Experienced in building scalable ETL/ELT pipelines, streaming event flows, and local LLM integrations.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## Technical Stack & Competencies
 
-<p align="center">
-  <!-- Data & Cloud -->
-  <img src="https://img.shields.io/badge/Azure_Data_Factory-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" alt="ADF" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
-  <!-- AI & Web -->
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
+### Cloud Data Engineering & Integration
+- **Platforms & Compute**: Azure Data Factory, Azure Databricks, Apache Spark / PySpark, Delta Lake
+- **Event Streaming & Messaging**: Azure Event Hubs, Azure Service Bus, Event-Driven Architecture
+- **Databases & Querying**: PostgreSQL, T-SQL, Relational & Dimensional Data Modeling (Star Schema)
+
+### AI Engineering & System Architecture
+- **LLM & RAG Integration**: Google Gemini 2.0 Flash API, Local Ollama (`qwen2.5:7b`), Retrieval-Augmented Generation
+- **Full-Stack Interface**: Next.js 16 (App Router), TypeScript, Tailwind CSS, REST & SSE Streaming APIs
+- **Tooling & Infrastructure**: Git, GitHub Actions, Python, Docker
 
 ---
 
-### 🌟 Featured Repositories
+## Featured Work & Architecture
 
-| Repository | Description | Stack | Link |
-| :--- | :--- | :--- | :--- |
-| 🚀 **[AIVOS](https://github.com/IvanekLumberjack888/AIVOS)** | Personal AI Operating System featuring SSE streaming, Knowledge Base RAG & Brain Brief. | `Next.js 16` `Gemini AI` `Ollama` | [View Repo](https://github.com/IvanekLumberjack888/AIVOS) |
-| 🌐 **[IvanekLumberjack888.github.io](https://github.com/IvanekLumberjack888/IvanekLumberjack888.github.io)** | Personal Developer Portfolio website showcasing skills, projects & experience. | `HTML5` `Vanilla CSS` `JavaScript` | [Live Site](https://ivaneklumberjack888.github.io/) |
-| 📺 **[yt-brain](https://github.com/IvanekLumberjack888/yt-brain)** | Automated YouTube AI Digest pipeline using `yt-dlp` and Gemini API. | `Python` `TypeScript` `yt-dlp` | [View Repo](https://github.com/IvanekLumberjack888/yt-brain) |
-| 🧠 **[brain-wiki](https://github.com/IvanekLumberjack888/brain-wiki)** | Personal Knowledge Base repository & compiled `wiki.json` dataset. | `Python` `Markdown` `JSON` | [View Repo](https://github.com/IvanekLumberjack888/brain-wiki) |
-| 🛠️ **[fabric-hobbytools](https://github.com/IvanekLumberjack888/fabric-hobbytools-rental-platform)** | End-to-end data platform case study for a fictional equipment rental company. | `Python` `PySpark` `Delta Lake` | [View Repo](https://github.com/IvanekLumberjack888/fabric-hobbytools-rental-platform) |
+- **[AIVOS Platform](https://github.com/IvanekLumberjack888/AIVOS)**  
+  Personal AI Operating System featuring Server-Sent Events (SSE) token streaming, local Knowledge Base search over structured wiki datasets, and automated YouTube digest analysis. Built with Next.js 16, TypeScript, Gemini API, and Ollama.
+
+- **[Portfolio Engine](https://github.com/IvanekLumberjack888/IvanekLumberjack888.github.io)**  
+  Responsive personal website showcasing data engineering case studies, skills matrix, and professional background. Built with HTML5, CSS custom properties, and JavaScript.
+
+- **[yt-brain Pipeline](https://github.com/IvanekLumberjack888/yt-brain)**  
+  Automated transcript extraction and AI scoring engine for video content utilizing `yt-dlp` and Gemini API.
+
+- **[brain-wiki](https://github.com/IvanekLumberjack888/brain-wiki)**  
+  Structured markdown knowledge repository compiled into structured JSON payloads for AI retrieval.
+
+- **[Fabric Equipment Platform Case Study](https://github.com/IvanekLumberjack888/fabric-hobbytools-rental-platform)**  
+  End-to-end data lakehouse pipeline architecture implementing Delta Lake medallion patterns.
 
 ---
 
-### 📊 GitHub Activity & Statistics
+## Professional Development & Certifications
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IvanekLumberjack888&show_icons=true&theme=tokyonight&hide_border=true" alt="Ivo's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanekLumberjack888&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&langs_count=6" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanekLumberjack888&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+- **Cloud Data Platform Engineering**: Advanced Azure Integration & Architecture Patterns
+- **Continuous Learning**: Cloud Certifications & Self-development (`AZ-900`, `LLM RAG Systems`)
 
 ---
 
 <div align="center">
-  <sub>Built with passion by <b>Ivo Doležal</b> · Powered by Continuous Learning & AI 🚀</sub>
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=IvanekLumberjack888&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanekLumberjack888&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&langs_count=6" alt="Top Languages" />
 </div>
