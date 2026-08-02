@@ -1,113 +1,76 @@
-👁️ [Personal_website_-_ivaneklumberjack888.github.io](https://ivaneklumberjack888.github.io/) 👀
+<div align="center">
+  <h1>Hi there, I'm Ivo Doležal 👋</h1>
+  <p><strong>Data Engineer | AI Integration & Automation Specialist</strong></p>
+  <p>Building production-grade data pipelines, AI workflows & cloud architectures.</p>
 
-# **Ivo Dolezal 🪓**
-
-# IvanekLumberjack888 | Junior Data Engineer
-
-**Data Engineer** | Azure Data Platforms | Microsoft Fabric  
-Building production-grade data pipelines with Azure Data Factory, Databricks & Fabric  
-Focused on Python | SQL | PySpark | Cloud Data Engineering  
-📍 Brno, CZ | 🌍 Remote-friendly | 🎓 DP-700 Preparation
-
----
-
-## 👤 About Me
-
-I'm a **Junior Data Engineer** specializing in **Azure data platforms** and **Microsoft Fabric** – modern cloud data engineering.
-
-**What I do:**
-- Building production-grade data pipelines with Azure Data Factory & Databricks
-- Working with event-driven architectures (Event Hub, Service Bus)
-- Preparing for **DP-700: Fabric Data Engineer** certification → [Public learning repo](https://github.com/IvanekLumberjack888/data-engineer-journey-2026-2.0.git) 👀
-- Real-world experience with cloud data integration
-
-**Tech Focus:**
-```
-Azure Data Factory | Databricks | Microsoft Fabric
-Event Hub | PySpark | Data Engineering
-Real-time Pipelines | ETL/ELT | Cloud Integration
-```
-
-**Philosophy:** Data engineering is about building reliable, scalable pipelines  
-that move, transform, and deliver data. Precision matters. 🪓
+  <p>
+    <a href="https://ivaneklumberjack888.github.io/"><img src="https://img.shields.io/badge/Portfolio-ivaneklumberjack888.github.io-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+    <a href="https://aivos-two.vercel.app/"><img src="https://img.shields.io/badge/AIVOS_App-aivos--two.vercel.app-0052CC?style=for-the-badge&logo=vercel&logoColor=white" alt="AIVOS App"></a>
+    <a href="mailto:ivousd@gmail.com"><img src="https://img.shields.io/badge/Email-ivousd%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  </p>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### ⚡ About Me
 
-### Languages & Frameworks
-- **Python**: Pandas, PySpark, Jupyter
-- **SQL**: T-SQL, query optimization, data modeling
-- **PySpark**: Data transformations, Databricks
+I am a **Data Engineer & AI Specialist** focused on **Azure Data Platform**, **PySpark**, **Event-Driven Architectures**, and **Autonomous AI Workflows**.
 
-### Cloud & Platforms
-- **Azure Data Factory**: ETL orchestration, pipeline design
-- **Databricks**: Spark workloads, data processing
-- **Microsoft Fabric**: OneLake, Notebooks, Data Warehouse
-- **Event Hub & Service Bus**: Real-time data streaming
-- **Azure DevOps**: CI/CD, repos, pipelines
-
-### Tools & Integration
-- **IDE**: VS Code, Jupyter, Databricks Notebooks
-- **Version Control**: Git, GitHub
-- **Data Integration**: REST APIs, event-driven architectures
-- **Monitoring**: Azure Monitor, logging strategies
+- 🔭 **Currently Building**: **AIVOS** (Personal AI Operating System) powered by **Next.js 16**, **Google Gemini 2.0 Flash**, and **Ollama**.
+- 🛠️ **Core Expertise**: Azure Data Factory, Databricks, PySpark, Event Hub, Service Bus, SQL & Data Pipelines.
+- 🎯 **Continuous Learning**: Cloud Certifications & Self-development (`AZ-900`, `Data Platform Engineering`, `LLM RAG`).
+- 📍 **Location**: Brno, Czech Republic (Remote-friendly).
 
 ---
 
-## 📊 Featured Projects
+### 🛠️ Tech Stack & Skills
 
-### 1. 🏗️ Azure Data Integration Pipeline
-- **Tech**: Azure Data Factory, Databricks, Event Hub
-- **Desc**: Production ETL workflows with event-driven architecture
-- **Focus**: Real-time data processing, pipeline orchestration
-
-### 2. 📊 ETL Pipeline Project
-- **Tech**: Python, SQL, PySpark, Data transformation
-- **Desc**: Complete ETL workflow with data quality checks
-- **GitHub**: [Link](https://github.com/IvanekLumberjack888/fabric-hobbytools-rental-platform)
-
-### 3. ✨ Fabric Notebook Experiments
-- **Tech**: Microsoft Fabric, PySpark, Notebooks
-- **Desc**: Exploring Fabric platform, OneLake & data lakehouse patterns
-- **GitHub**: [Link](https://github.com/IvanekLumberjack888/fabric-hobbytools-rental-platform)
-
-### 4. 🌐 Data Extraction & Processing
-- **Tech**: Python, BeautifulSoup, REST APIs
-- **Desc**: Automated data extraction pipelines
-- **GitHub**: [Elections Scraper](https://github.com/IvanekLumberjack888/Elections-Scraper)
-
-### 5. 💼 Portfolio Website
-- **Tech**: HTML, CSS, JavaScript, GitHub Pages
-- **Web**: [ivaneklumberjack888.github.io](https://ivaneklumberjack888.github.io)
-
-### AND MANY [MORE]
-- [ALL REPOSITORIES](https://github.com/IvanekLumberjack888?tab=repositories)
+<p align="center">
+  <!-- Data & Cloud -->
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" alt="ADF" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
+  <!-- AI & Web -->
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+### 🌟 Featured Repositories
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvanekLumberjack888&show_icons=true&theme=dracula&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanekLumberjack888&layout=compact&theme=dracula&hide_border=true&hide=jupyter%20notebook&langs_count=6)
-
----
-
-## 🎓 Learning & Certifications
-
-- **2026**: DP-700 Certification (Microsoft Fabric Data Engineer Associate) - In Progress
-- **2026**: Azure data engineering & event-driven architectures
-- **Ongoing**: Real-world projects, cloud patterns, best practices
-- **Focus Areas**: Data lakehouse, medallion architecture, real-time pipelines
+| Repository | Description | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| 🚀 **[AIVOS](https://github.com/IvanekLumberjack888/AIVOS)** | Personal AI Operating System featuring SSE streaming, Knowledge Base RAG & Brain Brief. | `Next.js 16` `Gemini AI` `Ollama` | [View Repo](https://github.com/IvanekLumberjack888/AIVOS) |
+| 🌐 **[IvanekLumberjack888.github.io](https://github.com/IvanekLumberjack888/IvanekLumberjack888.github.io)** | Personal Developer Portfolio website showcasing skills, projects & experience. | `HTML5` `Vanilla CSS` `JavaScript` | [Live Site](https://ivaneklumberjack888.github.io/) |
+| 📺 **[yt-brain](https://github.com/IvanekLumberjack888/yt-brain)** | Automated YouTube AI Digest pipeline using `yt-dlp` and Gemini API. | `Python` `TypeScript` `yt-dlp` | [View Repo](https://github.com/IvanekLumberjack888/yt-brain) |
+| 🧠 **[brain-wiki](https://github.com/IvanekLumberjack888/brain-wiki)** | Personal Knowledge Base repository & compiled `wiki.json` dataset. | `Python` `Markdown` `JSON` | [View Repo](https://github.com/IvanekLumberjack888/brain-wiki) |
+| 🛠️ **[fabric-hobbytools](https://github.com/IvanekLumberjack888/fabric-hobbytools-rental-platform)** | End-to-end data platform case study for a fictional equipment rental company. | `Python` `PySpark` `Delta Lake` | [View Repo](https://github.com/IvanekLumberjack888/fabric-hobbytools-rental-platform) |
 
 ---
 
-## 📫 Connect
+### 📊 GitHub Activity & Statistics
 
-- **GitHub**: [github.com/IvanekLumberjack888](https://github.com/IvanekLumberjack888)
-- **Portfolio**: [ivaneklumberjack888.github.io](https://ivaneklumberjack888.github.io)
-- **Email**: ivousd@gmail.com
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IvanekLumberjack888&show_icons=true&theme=tokyonight&hide_border=true" alt="Ivo's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanekLumberjack888&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&langs_count=6" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanekLumberjack888&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-**Status**: Building, shipping, growing 🚀
+<div align="center">
+  <sub>Built with passion by <b>Ivo Doležal</b> · Powered by Continuous Learning & AI 🚀</sub>
+</div>
