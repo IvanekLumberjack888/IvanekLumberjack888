@@ -1,13 +1,13 @@
 # Ivo Doležal
 
 **Data Engineer & AI Systems Specialist**  
-Brno, Czech Republic · [Portfolio](https://ivaneklumberjack888.github.io/) · [AIVOS Platform](https://aivos-two.vercel.app/) · [Buy Me a Coffee](https://buymeacoffee.com/aivos_os) · [Ko-fi](https://ko-fi.com/aivos_os) · [LinkedIn](https://linkedin.com) · [Email](mailto:ivousd@gmail.com)
+Brno, Czech Republic · [Portfolio](https://ivaneklumberjack888.github.io/) · [AIVOS Platform](https://aivos-two.vercel.app/) · [Buy Me a Coffee](https://buymeacoffee.com/aivos_os) · [Ko-fi](https://ko-fi.com/aivos_os) · [LinkedIn](www.linkedin.com/in/ivodolezal888) · [Email](mailto:ivousd@gmail.com)
 
 ---
 
 ## Executive Overview
 
-Specializing in cloud data engineering, event-driven integration, and private AI system architectures. Experienced in building scalable ETL/ELT pipelines, streaming event flows, and local LLM integrations.
+Consulting on data integration and data engineering solutions. Specializing in cloud data engineering, event-driven integration, and private AI system architectures. Experienced in building scalable ETL/ELT pipelines, streaming event flows, and local LLM integrations.
 
 ---
 
@@ -47,6 +47,7 @@ Specializing in cloud data engineering, event-driven integration, and private AI
 ## Professional Development & Certifications
 
 - **Cloud Data Platform Engineering**: Advanced Azure Integration & Architecture Patterns
+- **Data Analytics with Python**: Certified graduate of an intensive 6-month Data Analytics program with hands-on projects in Python, SQL, and data visualization.
 
 ---
 
